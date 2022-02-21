@@ -1,0 +1,46 @@
+fun main(args: Array<String>) {
+
+    println("bruna : olá tudo bem jessi")
+
+    println(" jessi: tudo sim e vc?")
+
+    println("bruna:  bem, vamos conhecer a hambugueria?")
+
+    println("jssei: é qual hambugueria ?")
+
+    println("bruna: aé não te contei meus pais abriu uma.")
+
+    println("jessi : serio que bacana, faz tempo que não se falamos . mais eai ta dando certo?")
+
+    println("bruna: sim , muito certo chama um pessoal vai la conhecer.")
+
+    println("jessi: irei sim. assim ja matamos a saudades.")
+
+    println("bruna: isso, vai ser muito bom.")
+
+    println("jessi: legal vou chmar a larissa e o nathan né nathan iremos? .")
+    
+    println("nathan : ai sim achei que não ia me chamar kkk")
+    
+    println("bruna: poxa desculpa eu estava empolgada em rever a jessi que nem falei com você .")
+    
+    println("nathan:ta tranquilo eu indo tudo certo hahaha .")
+
+    println("jessi: hahaha so vocês mesmo .")
+
+    println("bruna: bom eu conto com vocês em ir vistar. pode ser sabado?.")
+  
+    println("bruna: ai vocês ver o horario melhor estamos funcionando das 13h a 00h.")
+
+    println("jessi: legal vou me organiza e depois te falo a hora .")
+
+    println("nathan: a hora que a jessi fala ta otimo pra mim vai rola uns dscontos ne kkk.")
+
+    println("bruna:hahahaha pode deixar. então combinados beijos vou indo  .")
+    
+    println("jessi: ah que cedo . mas vai la beijos ate sabado")
+
+    println("nathan: bay meninas ate sabado .")
+
+    
+}
